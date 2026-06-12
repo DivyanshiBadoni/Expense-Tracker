@@ -249,5 +249,5 @@ Things I chose not to implement within the timeframe, and what I would build nex
 
 ## Notes
 
-- AI tools (Claude) were used to assist with boilerplate and syntax. I understand every line of code and can walk through it in the interview.
-- Currency is formatted in INR (`en-IN` locale) since this position is based in Gurgaon. This is easy to make configurable.
+- AI tools were used to assist with boilerplate and syntax. I understand every line of code and can walk through it in the interview.
+- Currency is formatted in INR  since this position is based in Gurgaon. This is easy to make configurable.
